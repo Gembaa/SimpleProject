@@ -1,0 +1,11 @@
+name: SimplePR
+main: me.dionjava.armor.Main
+author: [Gembaa]
+version: 1.0
+description: Anti armor hack
+
+commands:
+  check:
+    usage: /<command> (player)
+    description: Checks a player.
+    permission: simplepr.dion
